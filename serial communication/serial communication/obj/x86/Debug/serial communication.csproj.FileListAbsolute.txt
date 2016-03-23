@@ -1,0 +1,35 @@
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\bin\Debug\serial communication.exe
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\bin\Debug\serial communication.pdb
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\obj\x86\Debug\serial_communication.Properties.Resources.resources
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\obj\x86\Debug\serial communication.exe
+c:\users\mina\documents\visual studio 2010\Projects\serial communication\serial communication\obj\x86\Debug\serial communication.pdb
+C:\Users\Mina\documents\visual studio 2010\Projects\serial communication\serial communication\obj\x86\Debug\serial_communication.Send_Recieve.resources
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\bin\Debug\serial communication.exe
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\bin\Debug\serial communication.pdb
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\obj\x86\Debug\serial_communication.Properties.Resources.resources
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\obj\x86\Debug\serial_communication.Send_Recieve.resources
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.exe
+C:\Users\Mina\Documents\Visual Studio 2010\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.pdb
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.exe
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.pdb
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\bin\Debug\serial communication.exe
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\obj\x86\Debug\serial_communication.Properties.Resources.resources
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\obj\x86\Debug\serial_communication.Send_Recieve.resources
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Master Files\Codes _2014\serial communication\serial communication\serial communication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\bin\Debug\serial communication.exe
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\obj\x86\Debug\serial_communication.Properties.Resources.resources
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\obj\x86\Debug\serial_communication.Send_Recieve.resources
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.csproj.GenerateResource.Cache
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.exe
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.pdb
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\bin\Debug\serial communication.pdb
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\obj\x86\Debug\serial communication.csprojResolveAssemblyReference.cache
+D:\Master Files\Codes _2014\C#_Main App\serial communication\serial communication\serial communication\obj\x86\Debug\DataSet_Generator.about.resources
